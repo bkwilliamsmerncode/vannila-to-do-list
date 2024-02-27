@@ -1,0 +1,23 @@
+* {
+font-family: 'Arial', sans-serif;
+margin: 20px;
+}
+
+#todoList {
+list-style: none;
+padding: 0;
+}
+
+.task {
+display: flex;
+align-items: center;
+margin-bottom: 10px;
+}
+
+.task input {
+margin-right: 10px;
+}
+
+.task button {
+cursor: pointer;
+}
